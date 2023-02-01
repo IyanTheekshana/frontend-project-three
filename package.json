@@ -1,0 +1,22 @@
+{
+  "name": "frontend-project-three.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IyanTheekshana/frontend-project-three.github.io.git"
+  },
+  "author": "Iyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IyanTheekshana/frontend-project-three.github.io/issues"
+  },
+  "homepage": "https://github.com/IyanTheekshana/frontend-project-three.github.io#readme",
+  "dependencies": {
+    "sass": "^1.58.0"
+  }
+}
